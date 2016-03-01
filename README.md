@@ -1,4 +1,4 @@
-# Facial-Recognition-for-Yale-Faces-B-Data-Set
+# Facial Recognition for Yale Faces B Data Set
 I did a facial recognition for Yale Faces B data set which contains 38 subjects, each photographed in a variety of lighting conditions. 
 
 I first loaded in all of the images and stored them as a matrix where each row is a vector converted from an image. 
